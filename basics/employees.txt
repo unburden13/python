@@ -1,0 +1,6 @@
+George - salesman
+Victor - salesman
+Patricia - saleswoman
+Carlos - salesman
+Ana - manager
+Hilary - accountant
