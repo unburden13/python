@@ -1,0 +1,24 @@
+Have an emphasis where data and functions are separated.
+Do not combine data and functions as one object like in OOP.
+We don't have classes and objects.
+Functions operate on well defined data structures like lists.
+
+Premises:
++ Clear and understandable
++ Easy to extend
++ Easy to maintain
++ Memory efficient
++ DRY
+
+Pure functions
+- Giving the same input, it will always return the same output
+- Should not produce any side-effects
+
+Lambda expressions
+- Functions that are used only once
+- Anonymous functions (functions with no name)
+
+Comprehensions
+- Quick way to create iterable objects
+- Can create: list, set, dictionary
+- Can be confusing sometimes, so keep an eye on readability
