@@ -1,0 +1,6 @@
+- Everything that is a generator, is an iterable
+- NOT every iterable is a generator
+- i.e. generator is a subset of iterable
+- If it has a 'yield' it becomes a generator
+- 'yield' pauses the function and comes back to it when calling the 'next' keyword
+- Keeps the most recent data in memory
