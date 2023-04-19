@@ -25,7 +25,7 @@ print(f'pattern-search-regex: {b.group(1)}')
 print(f'pattern-search-regex: {b.group(2)}')
 
 
-email = 'juan@python.com'
+email = 'juan@any-random-email.com'
 email_regex = re.compile(r'([A-Za-z0-9]+[.-_])*[A-Za-z0-9]+@[A-Za-z0-9-]+(\.[A-Z|a-z]{2,})+')
 e = email_regex.search(email)
 print(f'email-validator: {e}')
